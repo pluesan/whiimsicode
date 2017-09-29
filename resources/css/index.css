@@ -1,0 +1,9 @@
+html {
+    background-color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    color: rgba(224, 224, 224, 0.66);
+    text-align: center;
+}
