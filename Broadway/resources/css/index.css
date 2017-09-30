@@ -1,0 +1,24 @@
+html {
+    text-align: center;
+    font-family: Helvetica;
+}
+
+.bgtext {
+    color: white;
+    background-image: url(../images/flatiron.png);
+}
+
+h3 {
+    font-weight: bold;
+    font-size: 23px;
+}
+
+p {
+    font-size: 14px;
+}
+
+#footer {
+    text-align: left;
+    background-color: dimgray;
+    color: white;
+}
